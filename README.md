@@ -4,6 +4,12 @@ Monitor de uso do **Claude** e do **ChatGPT (Codex)** na bandeja do Windows.
 Um ícone ao lado do relógio mostra, num olhar, quanto já foi gasto das cotas
 dos dois serviços.
 
+Prévia que aparece ao passar o mouse no ícone da bandeja:
+
+![prévia no hover](docs/previa.png)
+
+Barras do painel de detalhes, com as cores por faixa de uso:
+
 ![barras de progresso](docs/barras.png)
 
 ## Requisitos
