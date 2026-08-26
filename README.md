@@ -54,7 +54,9 @@ As cores seguem o quanto já foi gasto: **até 30% verde**, **30% a 70% amarelo*
 | `UsageAI.ps1` | O aplicativo inteiro |
 | `Iniciar Usage A.I.vbs` | Atalho que abre sem console |
 | `UsageAI.ico` | Ícone da bandeja |
-| `LogoClaude.png` / `LogoChatGPT.png` | Símbolos das marcas |
+| `AppIcon.png` | Logo do projeto em alta resolução |
+| `u.ai.svg` | Logo original do projeto, em vetor |
+| `LogoClaude.png` / `LogoChatGPT.png` | Símbolos das marcas usados nas barras |
 
 ## Segurança
 
